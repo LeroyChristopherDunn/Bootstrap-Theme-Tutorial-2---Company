@@ -138,3 +138,17 @@ footer .glyphicon {
     margin-bottom: 20px;
     color: #f4511e;
 }
+
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+
+.jumbotron {
+    font-family: Montserrat, sans-serif;
+}
+
+.navbar {
+    font-family: Montserrat, sans-serif;
+}
